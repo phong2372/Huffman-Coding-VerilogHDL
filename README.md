@@ -1,4 +1,4 @@
-# HuffmanCoding
+# Huffman Coding
 Implement the Huffman Coding image compression algorithm in Hardware description language.
 
 Contact Gmail if you need the full source code for research or have other problems.
